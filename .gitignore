@@ -9,4 +9,4 @@ Icon
 .Trashes
 ehthumbs.db
 Thumbs.db
-lazy-lock.json
+*.json
